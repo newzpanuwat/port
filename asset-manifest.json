@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.34de6062.chunk.css",
+    "main.js": "/port/static/js/main.75fcc0b0.chunk.js",
+    "main.js.map": "/port/static/js/main.75fcc0b0.chunk.js.map",
+    "runtime~main.js": "/port/static/js/runtime~main.a7676607.js",
+    "runtime~main.js.map": "/port/static/js/runtime~main.a7676607.js.map",
+    "static/css/2.3a4c190d.chunk.css": "/port/static/css/2.3a4c190d.chunk.css",
+    "static/js/2.61141b24.chunk.js": "/port/static/js/2.61141b24.chunk.js",
+    "static/js/2.61141b24.chunk.js.map": "/port/static/js/2.61141b24.chunk.js.map",
+    "index.html": "/port/index.html",
+    "precache-manifest.1313ccc61d54bcca6a8d2c20bc7f44af.js": "/port/precache-manifest.1313ccc61d54bcca6a8d2c20bc7f44af.js",
+    "service-worker.js": "/port/service-worker.js",
+    "static/css/2.3a4c190d.chunk.css.map": "/port/static/css/2.3a4c190d.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/port/static/css/main.34de6062.chunk.css.map",
+    "static/media/semantic.min.css": "/port/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/contact.png": "/port/static/media/contact.9201ae74.png"
+  }
+}
