@@ -9,7 +9,7 @@ import {
 const ContentLayout = () => (
   <div>
     <Container text style={{ marginTop: '7em' }}>
-      <Header as='h1'>Portfolio</Header>
+      <Header as='h1'>Work experience</Header>
       <Divider />
       <h3>Thumbprint - (Internal Project)</h3>
       <span>Aug 2017 - Dec 2017</span><br/>
@@ -32,28 +32,6 @@ const ContentLayout = () => (
         <Label as='a' color='orange'>
           jQuery
         </Label>
-      <Divider />
-      <h3>10DK</h3>
-      <span>Mar 2018 to Apr 2018</span><br/>
-      <p>Swiftlet, Bangkok</p>
-      <p>
-        10DK app is web application customer management,  In this project I’m just coordinate with one of senior developer for a short time.
-      </p>
-      <Label as='a' color='red'>
-        Ruby on Rails
-      </Label>
-      <Label as='a'>
-        HTML5
-      </Label>
-      <Label as='a' color='teal'>
-        CSS
-      </Label>
-      <Label as='a' color='green'>
-        MongoDB
-      </Label>
-      <Label as='a' color='orange'>
-        jQuery
-      </Label>
       <Divider />
       <h3>School bus Tracker  - (Internal Project) </h3>
       <span>Jun 2018 to Aug 2018</span><br/>

@@ -15,9 +15,9 @@ const HeaderLayout = () => (
         <img src={logo} alt="Logo"style={{ marginRight: '0.3em' }}  />
           New Panuwat
         </Menu.Item>
-        <Menu.Item as={ Link } name='/' to='/'>Profile</Menu.Item>
-        <Menu.Item as={ Link } name='portfolio' to='portfolio'>Portfolio</Menu.Item>
-        <Menu.Item as={ Link } name='contact' to='contact'>Contact</Menu.Item>
+        <Menu.Item as={ Link } name='about' to='about'>About</Menu.Item>
+        <Menu.Item as={ Link } name='projects' to='projects'>Projects</Menu.Item>
+        {/* <Menu.Item as={ Link } name='contact' to='contact'>Contact</Menu.Item> */}
       </Container>
     </Menu>
   </div>
