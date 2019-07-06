@@ -18,7 +18,6 @@ const HeaderLayout = () => (
         <Menu.Item as={ Link } name='/' to='/'>Profile</Menu.Item>
         <Menu.Item as={ Link } name='portfolio' to='portfolio'>Portfolio</Menu.Item>
         <Menu.Item as={ Link } name='contact' to='contact'>Contact</Menu.Item>
-        <Menu.Item position='right' as='a'>EN/TH</Menu.Item>
       </Container>
     </Menu>
   </div>

@@ -57,9 +57,6 @@ const ContentLayout = () => (
       <Label as='a' color='orange'>
         jQuery
       </Label>
-      <Label as='a' color='red'>
-        Angular JS
-      </Label>
       <Divider />
       </p> 
       <h3>School bus Tracker  - (Internal Project) </h3>
@@ -105,9 +102,6 @@ const ContentLayout = () => (
       <Label as='a' color='green'>
         MongoDB
       </Label>
-      <Label as='a' color='orange'>
-        jQuery
-      </Label>
       <Label as='a' color='teal'>
         Vue JS
       </Label>
@@ -131,9 +125,6 @@ const ContentLayout = () => (
         </Label>
         <Label as='a' color='green'>
           MongoDB
-        </Label>
-        <Label as='a' color='orange'>
-          jQuery
         </Label>
         <Label as='a' color='blue'>
           React JS
