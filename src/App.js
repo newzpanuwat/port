@@ -1,6 +1,6 @@
 import React from 'react'
 import HeaderLayout from './components/HeaderLayout'
-import Landing from './components/Landing';
+import Profile from './components/Profile';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
@@ -12,7 +12,7 @@ const App = () => (
       <Router>
         <HeaderLayout />
         <Switch>
-          <Route exact path="/" component={Landing} />
+          <Route exact path="/" component={Profile} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </Switch>

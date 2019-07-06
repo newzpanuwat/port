@@ -8,10 +8,10 @@ const ContentLayout = () => (
   <div>
     <Container text style={{ marginTop: '7em' }}>
       <Header as='h1'>Contact</Header>
-      <p>This is a basic fixed menu template using fixed size containers.</p>
-      <p>
-        A text container is used for the main container, which is useful for single column layouts.
-      </p>
+      <p>Email: new_sbh@me.com</p>
+      <p>Github: /newzpanuwat</p>
+      <p>Medium: @newzpanuwat</p>
+      <p>Tel: +66 907397502</p>
     </Container>
   </div>
 )
