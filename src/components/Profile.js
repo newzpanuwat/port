@@ -5,18 +5,17 @@ import {
   Header,
   Divider,
 } from 'semantic-ui-react'
-import { Button, Icon } from 'semantic-ui-react'
 
 const Profile = () => (
   <div>
-    <Container text style={{ marginTop: '7em' }}>
+    <Container text style={{ marginTop: '2.5em' }}>
       <Header as='h1'>Panuwat Boonrod</Header>
-      <h3>Software Developer</h3>
+      <h3>Software Engineer</h3>
       <Divider />
       <h2>About me</h2>
       <p>
-        I'm 28 years old, Experienced professional with over 2 year total IT Industry in Ruby on Rails development and Implement software with TDD
-        During last year, I was focused on Golang it' is more interest for me to work on backend microservices.
+        I'm Experienced professional with over 4 years total IT Industry in Software development and Implement software with TDD
+        During last year, I was focused on Blockchain technology it' is more interest for me to work on backend microservices.
       </p>
       <p>
       My primary goal is to apply my technical expertise all throughout the full software
@@ -27,10 +26,6 @@ const Profile = () => (
       company.
       </p>
       <Divider />
-      {/* <Button icon labelPosition='right' floated="right">
-        Next
-        <Icon name='right arrow' />
-      </Button> */}
     </Container>
   </div>
 )
